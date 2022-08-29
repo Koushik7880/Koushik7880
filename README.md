@@ -1,4 +1,4 @@
-![Software Engineer](https://media-exp1.licdn.com/dms/image/C5603AQEdyvJ0NuNS-Q/profile-displayphoto-shrink_800_800/0/1651901225640?e=1667433600&v=beta&t=l-nLEI8JYmNNqEWFCqfKWY4zFQn3ojowLlKzv_bRhEE)
+
 
 ### Hi there 👋, I'm Koushik Das
 #### Software Engineer
